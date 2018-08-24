@@ -33,6 +33,7 @@ logger = sgtk.platform.get_logger(__name__)
 class AppDialog(QtGui.QWidget):
     """
     Main dialog window for the App
+    zw
     """
 
     # main drag and drop areas
